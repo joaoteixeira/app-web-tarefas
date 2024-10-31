@@ -1,0 +1,44 @@
+
+<div class="row mt-5 mb-4">
+  <div class="col">
+    <h1>Minhas tarefas</h1>
+  </div>
+
+  <div class="col col-2 align-self-end">
+    <a class="btn btn-primary" href="/tarefas/create">+ Nova tarefa</a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col">
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">#</th>
+          <th scope="col">Descrição</th>
+          <th scope="col">Criado em</th>
+          <th scope="col">Realizado</th>
+          <th scope="col">Opções</th>
+        </tr>
+      </thead>
+      <tbody>
+        {{#each listaTarefas}}
+        <tr>
+          <th scope="row">{{inc @index}}</th>
+          <td>{{descricao}}</td>
+          <td>{{dateFormat dataCriacao}}</td>
+          <td>
+            {{#if feito}}
+              <span class="badge rounded-pill text-bg-success">Feito</span>
+            {{else}}
+              <span class="badge rounded-pill text-bg-secondary">A Fazer</span>
+            {{/if}}
+          </td>
+          <td>-</td>
+        </tr>
+        {{/each}}
+      </tbody>
+    </table>
+  </div>
+</div>
+

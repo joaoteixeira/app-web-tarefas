@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "descricao": "Desenvolver o plano de marketing para a empresa Y",
+    "feito": true,
+    "dataCriacao": "2024-10-30 09:10:00"
+  },
+  {
+    "id": 2,
+    "descricao": "Criar estratégia de redes sociais para lançamento de produto Z",
+    "feito": false,
+    "dataCriacao": "2024-10-30 09:15:00"
+  },
+  {
+    "id": 3,
+    "descricao": "Redigir conteúdo para o blog da empresa Y",
+    "feito": true,
+    "dataCriacao": "2024-10-30 09:20:00"
+  },
+  {
+    "id": 4,
+    "descricao": "Configurar campanhas de e-mail marketing para a Black Friday",
+    "feito": false,
+    "dataCriacao": "2024-10-30 09:25:00"
+  },
+  {
+    "id": 5,
+    "descricao": "Analisar métricas de campanhas de anúncios para cliente X",
+    "feito": true,
+    "dataCriacao": "2024-10-30 09:30:00"
+  },
+  {
+    "id": 6,
+    "descricao": "Realizar pesquisa de mercado sobre concorrentes de cliente Z",
+    "feito": false,
+    "dataCriacao": "2024-10-30 09:35:00"
+  },
+  {
+    "id": 7,
+    "descricao": "Desenvolver identidade visual para campanha de fim de ano",
+    "feito": false,
+    "dataCriacao": "2024-10-30 09:40:00"
+  },
+  {
+    "id": 8,
+    "descricao": "Agendar posts para o mês de novembro nas redes sociais",
+    "feito": false,
+    "dataCriacao": "2024-10-30 09:45:00"
+  },
+  {
+    "id": 9,
+    "descricao": "Criar anúncios pagos no Google Ads para campanha de natal",
+    "feito": false,
+    "dataCriacao": "2024-10-30 09:50:00"
+  },
+  {
+    "id": 10,
+    "descricao": "Organizar reunião com influenciadores para parceria no Instagram",
+    "feito": false,
+    "dataCriacao": "2024-10-30 09:55:00"
+  },
+  {
+    "id": 11,
+    "descricao": "Desenvolver landing page para captação de leads",
+    "feito": false,
+    "dataCriacao": "2024-10-30 10:00:00"
+  },
+  {
+    "id": 12,
+    "descricao": "Criar vídeo promocional para cliente Y",
+    "feito": false,
+    "dataCriacao": "2024-10-30 10:05:00"
+  },
+  {
+    "id": 13,
+    "descricao": "Elaborar plano de SEO para o site da empresa X",
+    "feito": false,
+    "dataCriacao": "2024-10-30 10:10:00"
+  },
+  {
+    "id": 14,
+    "descricao": "Realizar análise de ROI das campanhas de marketing digital",
+    "feito": false,
+    "dataCriacao": "2024-10-30 10:15:00"
+  },
+  {
+    "id": 15,
+    "descricao": "Ajustar anúncios para o lançamento de novo produto de cliente Z",
+    "feito": false,
+    "dataCriacao": "2024-10-30 10:20:00"
+  },
+  {
+    "id": 16,
+    "descricao": "dsadas",
+    "feito": false,
+    "dataCriacao": "2024-10-30T23:19:47.067Z"
+  },
+  {
+    "id": 17,
+    "descricao": "dasdsadas",
+    "feito": "true",
+    "dataCriacao": "2024-10-30T23:20:04.044Z"
+  },
+  {
+    "id": 18,
+    "descricao": "Planejamento aula PW - 2",
+    "feito": false,
+    "dataCriacao": "2024-10-30T23:48:49.076Z"
+  },
+  {
+    "id": 19,
+    "descricao": "Desenvolver estrutura de APP para disciplina de Web 2",
+    "feito": "true",
+    "dataCriacao": "2024-10-30T23:49:25.275Z"
+  },
+  {
+    "id": 20,
+    "descricao": "Aula 5",
+    "feito": "true",
+    "dataCriacao": "2024-10-31T00:29:00.515Z"
+  },
+  {
+    "id": 21,
+    "descricao": "dasdasdas ",
+    "feito": false,
+    "dataCriacao": "2024-10-31T00:30:04.756Z"
+  },
+  {
+    "id": 22,
+    "descricao": "dsadasd asdasd ",
+    "feito": "true",
+    "dataCriacao": "2024-10-31T00:30:17.588Z"
+  }
+]

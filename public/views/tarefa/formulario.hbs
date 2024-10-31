@@ -1,0 +1,23 @@
+
+<div class="row mt-5 mb-4">
+  <div class="col">
+    <h1>Nova tarefas</h1>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col">
+    <form action="/tarefas/save" method="post">
+      <div class="mb-3">
+        <label for="descricao" class="form-label">Descrição</label>
+        <input type="text" class="form-control" id="descricao" name="descricao">
+      </div>
+      <div class="mb-3 form-check">
+        <input type="checkbox" class="form-check-input" id="feito" name="feito" value="true">
+        <label class="form-check-label" for="feito">Tarefa Realizada</label>
+      </div>
+      <button type="submit" class="btn btn-primary">Salvar</button>
+    </form>
+  </div>
+</div>
+

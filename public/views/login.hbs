@@ -1,0 +1,35 @@
+<!-- public/views/login.hbs -->
+<h1 class="mt-5">App Web - Controle de Tarefas</h1>
+  <p class="lead">Aplicação Web Exemplo para controle de tarefas</p>
+</h1>
+<div class="row justify-content-md-center mt-5">
+  <div class="col col-4">
+    <div class="card">
+
+      <div class="card-header text-center">
+        Acessar App
+      </div>
+
+      <div class="card-body">
+        <form action="/login" method="post"> 
+
+          {{#if message }}
+            <div class="alert alert-danger text-center" role="alert" style="font-size: .8rem;">
+              {{ message }}
+            </div>
+          {{/if}}
+
+          <div class="mb-3">
+            <label for="username" class="form-label">Usuário</label>
+            <input type="text" class="form-control" name="username" id="username">
+          </div>
+          <div class="mb-3">
+            <label for="password" class="form-label">Senha</label>
+            <input type="password" class="form-control" name="password" id="password">
+          </div>
+          <button type="submit" class="btn btn-primary">Acessar</button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
